@@ -4,7 +4,7 @@
 
 <img align="right" width="400" height="280" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif"></img>
 
-### I'm a Forth year Computer Science Student pursuing my Btech degree from GEU, Dehradun.
+### I'm a Computer Science UnderGrad.
 
 - 🔭 I’m currently exploring the realms of Computer Science.
 - 🌱 I’m currently learning Web Development and DS.
